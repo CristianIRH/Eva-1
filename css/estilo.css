@@ -1,0 +1,30 @@
+header{
+    background-color: gray;
+}
+header p{
+    text-align: right;
+}
+
+header img{
+    width: 250px;
+    height: 200px;
+
+}
+
+.art1{
+    text-align: left;
+    text-size-adjust: 16;
+}
+
+.art2{
+    text-align: center;
+    top: auto;
+}
+
+.art3{
+    text-align: right;
+}
+
+.art4{
+    text-align: center;
+}
