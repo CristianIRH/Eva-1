@@ -1,3 +1,7 @@
+body{
+    background-color: beige;
+}
+
 header{
     background-color: gray;
 }
@@ -27,4 +31,9 @@ header img{
 
 .art4{
     text-align: center;
+}
+
+.img4{
+    width: 2000px;
+    height: 700px;
 }
