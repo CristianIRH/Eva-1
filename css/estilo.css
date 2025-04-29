@@ -11,7 +11,7 @@ header p{
 
 header img{
     width: 250px;
-    height: 200px;
+    height: 150px;
 
 }
 
@@ -36,4 +36,34 @@ header img{
 .img4{
     width: 2000px;
     height: 700px;
+}
+
+.img5{
+    text-align: left;
+    width: 400px;
+    height: 250px;
+}
+
+.h2a3{
+    text-align: center;
+}
+
+.h3a3{
+    text-align: center;
+}
+
+.art5{
+    background-color: white;
+    text-align: center;
+
+}
+
+.art6{
+    background-color: black;
+}
+
+.art6 img{
+    text-align: center;
+    width: 2000px;
+    height: 500px;
 }
